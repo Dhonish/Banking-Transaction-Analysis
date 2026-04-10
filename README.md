@@ -67,4 +67,3 @@ The included `.sql` scripts answer the following business questions:
 
 * **Database Engine:** MySQL Workbench
 * **Version Control:** GitHub
-*
